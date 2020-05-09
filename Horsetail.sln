@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{9B2EF70E-57E3-4D32-8C47-B49B1DA75CF1}"
 	ProjectSection(SolutionItems) = preProject
+		Documentation\class-diagram.jpg = Documentation\class-diagram.jpg
 		Documentation\use-cases.jpg = Documentation\use-cases.jpg
 	EndProjectSection
 EndProject
